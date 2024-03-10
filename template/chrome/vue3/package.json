@@ -12,6 +12,7 @@
   },
   "devDependencies": {
     "typescript": "^5.4.2",
-    "vite": "^5.1.5"
+    "vite": "^5.1.5",
+    "vite-plugin-chrome-builder": "^0.0.1"
   }
 }
