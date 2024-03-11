@@ -1,1 +1,1 @@
-console.log("Hello Chrome");
+console.log("Hello Chrome")
