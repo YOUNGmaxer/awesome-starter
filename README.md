@@ -29,3 +29,5 @@
 ## 桌面端
 
 - [ ] Electron + Vue3 + Vite5
+
+- [ ] Tauri

@@ -1,6 +1,3 @@
 # My Project
 
-## 环境要求
-
-* Node20+
-* pnpm8+
+> 开发环境要求：Node20+、pnpm7+
