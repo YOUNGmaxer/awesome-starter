@@ -16,7 +16,10 @@
   - [ ] 代码规范
 - [ ] 极简TS版：TS
 - [ ] Vue 版：Vue3 + Vite
-  - [ ] Vite 构建插件
+  - [x] Vite 构建
+  - [x] 支持 Unocss
+  - [x] 支持 Vue-Router
+  - [ ] 热更新
 
 ## Web 纯前端
 
