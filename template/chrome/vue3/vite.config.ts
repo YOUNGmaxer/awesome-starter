@@ -20,4 +20,16 @@ export default defineConfig({
       imports: ['vue', 'pinia'],
     }),
   ],
+  build: {
+    rollupOptions: {
+      input: {
+        popup: resolve(__dirname, 'src/popup/popup.html'),
+        content: resolve(__dirname, 'src/content/content.html'),
+        'content-script': resolve(__dirname, 'src/content/content-script.ts'),
+      },
+      output: {
+        entryFileNames: '[name].js',
+      },
+    },
+  },
 })
